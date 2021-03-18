@@ -50,9 +50,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
-- [JavaScript]
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
@@ -89,6 +89,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://itolimaesther.github.io/recipe-page/)
-- GitHub [@your-username](https://{github.com/itolimaesther})
-- Twitter [@your-twitter](https://{twitter.com/qween_esta})
+- [Website](https://itolimaesther.github.io/recipe-page/)
+- [GitHub](https://github.com/itolimaesther)
+- [Twitter](https://{twitter.com/qween_esta})
